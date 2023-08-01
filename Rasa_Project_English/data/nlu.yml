@@ -89,3 +89,10 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+# - intent: weather
+#   examples: |
+#     - What's the weather like today?
+#     - Will it rain today?
+#     - How hot will it be?
+#     - What is the forecast?    

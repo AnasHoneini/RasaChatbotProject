@@ -8,6 +8,16 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  # - weather
+
+actions:
+  - utter_greet
+  - utter_goodbye
+  - utter_iamabot
+  - utter_did_that_help
+  - utter_cheer_up
+  - utter_happy
+
 
 responses:
   utter_greet:

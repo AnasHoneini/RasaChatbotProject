@@ -28,3 +28,30 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+# - story: greet and weather
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: weather
+#   - action: action_check_weather
+
+# - story: greet, weather, and goodbye
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: weather
+#   - action: action_check_weather  
+#   - intent: goodbye
+#   - action: utter_goodbye  
+
+# - story: greet, weather, thank, and goodbye
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: weather
+#   - action: action_check_weather  
+#   - intent: goodbye
+#   - action: utter_goodbye  
+
+
